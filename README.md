@@ -10,10 +10,10 @@ This extension was developed in response to a bug in the **Jira WorklogPro plugi
 
 ### How to Use
 
-1. **Clone the JiraTimeConverter repository from GitHub:**
+1. **Clone the jira-time-converter repository from GitHub:**
 
     ```
-       git clone https://github.com/Aknbb/AutoTasker.git
+       git clone https://github.com/Aknbb/jira-time-converter.git
     ```
 
 2. **Install the Extension:**
